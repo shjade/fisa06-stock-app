@@ -19,3 +19,4 @@ pip freeze > requirements.txt
 
 #2. 이미 배포된 서비스를 업데이트할 때
 1) pip freeze > requirements로 패키지 업데이트 상황 재작성
+2) 숨겨야할 변경사항이 있다면 .env에 작성하고 .gitignore에 추가합니다.

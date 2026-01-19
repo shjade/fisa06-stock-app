@@ -1,6 +1,7 @@
 # Import convention
 import streamlit as st
 import pandas as pd
+
 #출력메서드
 st.text('Tushar-Aggarwal.com') #화면에 출력 또는 입력을 받으려면 st.어쩌구()를 거쳐야 합니다.
 st.markdown('[Tushar-Aggarwal.com](https://tushar-aggarwal.com)')
